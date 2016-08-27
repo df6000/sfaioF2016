@@ -6,6 +6,9 @@ li{
 	max-width:400px;
 }
 
+p {
+	max-width: 400px;
+}
 .assignment {
 	/*color: #F20CC8;*/
 	color: white;
@@ -64,6 +67,11 @@ li{
 	background-color: #E80C89;
 	color: black; 
 	
+}
+
+.navLink {
+	color:white;
+	margin-right: 40px;
 }
 
 .panel-body{
