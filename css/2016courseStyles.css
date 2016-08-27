@@ -1,3 +1,7 @@
+body {
+	background-color: #D6EBF2;
+}
+
 li{
 	display: block;
 	margin-top: -5px;
@@ -74,6 +78,9 @@ p {
 	margin-right: 40px;
 }
 
+/*.panel {
+	float: right;
+}*/
 .panel-body{
 	font-size: 12px;
 }
