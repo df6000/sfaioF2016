@@ -1,6 +1,9 @@
 li{
 	display: block;
 	margin-top: -5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	max-width:400px;
 }
 
 .assignment {
@@ -19,6 +22,7 @@ li{
 
 .date{
 	font-size:18pt;
+	margin-left: 20px;
 }
 
 .dayTheme {
@@ -42,6 +46,12 @@ li{
 
 .linkz{
 	margin-top:15px;
+	margin-left: 20px;
+}
+
+.readings{
+	/*margin-top:15px;*/
+	margin-left: 20px;
 }
 
 .navbar {
@@ -62,6 +72,7 @@ li{
 
 .subTitle {
 	max-width:400px;
+	margin-left: 20px;
 }
 
 #crit {
