@@ -94,7 +94,7 @@ p {
 	font-size: 12px;
 }
 
-/*.project {
+.project {
 
 	margin-left: -30px; 
 	width:600px;
@@ -104,7 +104,7 @@ p {
 
 	margin-left: 50px; 
 	width:600px;
-}*/
+}
 
 .subTitle {
 	max-width:400px;
