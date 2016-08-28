@@ -2,6 +2,14 @@ body {
 	background-color: #D6EBF2;
 }
 
+.page-header {
+	margin-left: -30px;
+}
+
+.page-header2 {
+	margin-left: -15px;
+}
+
 li{
 	display: block;
 	margin-top: -5px;
@@ -82,7 +90,20 @@ p {
 	float: right;
 }*/
 .panel-body{
+
 	font-size: 12px;
+}
+
+.project {
+/*	float:right;*/
+	margin-left: -30px; 
+	width:600px;
+}
+
+.project p{
+/*	float:right;*/
+	margin-left: 50px; 
+	width:600px;
 }
 
 .subTitle {
