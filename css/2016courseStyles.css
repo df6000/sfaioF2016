@@ -65,11 +65,14 @@ p {
 }
 
 .resources{
-	font-size: 24pt; 
+	font-size: 18pt; 
 	margin-top:15px;
 	margin-left: 20px;
 }
 
+.resHead{
+	font-size: 24pt;
+}
 /*.resources li{
 	margin-top:15px;
 	margin-left: 20px;
